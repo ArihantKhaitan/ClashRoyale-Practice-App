@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--
+      Base application theme.
+      This theme uses the modern Material 3 library, which is required by all
+      the UI components used in the app. This will fix the startup crash.
+    -->
+    <style name="Theme.ClashRoyaleApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can customize your theme here if you wish. -->
+    </style>
+</resources>
